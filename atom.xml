@@ -2,35 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>良仓</title>
   
-  <subtitle>天下良仓</subtitle>
+  <subtitle>癫侠良仓</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://shuger.cn/"/>
-  <updated>2019-09-27T16:06:52.418Z</updated>
+  <updated>2019-10-04T15:31:41.998Z</updated>
   <id>https://shuger.cn/</id>
   
   <author>
-    <name>bycw</name>
+    <name>良仓</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Unity 框架</title>
-    <link href="https://shuger.cn/2019/09/25/unity-kuang-jia/"/>
-    <id>https://shuger.cn/2019/09/25/unity-kuang-jia/</id>
-    <published>2019-09-25T15:34:02.000Z</published>
-    <updated>2019-09-27T16:06:52.418Z</updated>
-    
-    <content type="html"><![CDATA[<p>每年国庆，最期待的不一定是那7天的假期吧！我更期待的是阅兵。</p>]]></content>
+    <title>Hexo搭建</title>
+    <link href="https://shuger.cn/2019/10/04/test/"/>
+    <id>https://shuger.cn/2019/10/04/test/</id>
+    <published>2019-10-04T13:44:06.000Z</published>
+    <updated>2019-10-04T15:31:41.998Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;每年国庆，最期待的不一定是那7天的假期吧！我更期待的是阅兵。&lt;/p&gt;
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="https://shuger.cn/categories/Web/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Unity 框架</title>
+    <link href="https://shuger.cn/2019/09/25/unity-kuang-jia/"/>
+    <id>https://shuger.cn/2019/09/25/unity-kuang-jia/</id>
+    <published>2019-09-25T15:34:02.000Z</published>
+    <updated>2019-10-04T15:26:52.158Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;每年国庆，最期待的不一定是那7天的假期吧！我更期待的是阅兵。&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -48,20 +74,23 @@
     <link href="https://shuger.cn/2019/09/25/shi-yi-you-ji/"/>
     <id>https://shuger.cn/2019/09/25/shi-yi-you-ji/</id>
     <published>2019-09-25T15:34:02.000Z</published>
-    <updated>2019-09-27T15:29:52.308Z</updated>
-    
-    <content type="html"><![CDATA[<p>每年国庆，最期待的不一定是那7天的假期吧！我更期待的是阅兵。</p>]]></content>
+    <updated>2019-10-04T15:26:47.925Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;每年国庆，最期待的不一定是那7天的假期吧！我更期待的是阅兵。&lt;/p&gt;
+        
+        
+          &lt;p&gt;每年国庆，最期待的不一定是那7天的假期吧！我更期待的是阅兵。&lt;/p&gt;
 
+        
       
     
     </summary>
     
+    
+      <category term="Others" scheme="https://shuger.cn/categories/Others/"/>
     
     
       <category term="生活" scheme="https://shuger.cn/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -73,22 +102,23 @@
     <link href="https://shuger.cn/2019/09/25/ming-tian-xing-qi-liu/"/>
     <id>https://shuger.cn/2019/09/25/ming-tian-xing-qi-liu/</id>
     <published>2019-09-25T15:29:09.000Z</published>
-    <updated>2019-09-27T15:41:06.627Z</updated>
-    
-    <content type="html"><![CDATA[<p>明天就是星期六了，又是一个无聊的周末，逛街吃饭看电影…</p>]]></content>
+    <updated>2019-10-04T15:26:46.802Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;明天就是星期六了，又是一个无聊的周末，逛街吃饭看电影…&lt;/p&gt;
+        
+        
+          &lt;p&gt;明天就是星期六了，又是一个无聊的周末，逛街吃饭看电影…&lt;/p&gt;
 
+        
       
     
     </summary>
     
     
-      <category term="随笔" scheme="https://shuger.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="Others" scheme="https://shuger.cn/categories/Others/"/>
     
     
       <category term="生活" scheme="https://shuger.cn/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -102,15 +132,16 @@
     <link href="https://shuger.cn/2019/09/25/hello-world/"/>
     <id>https://shuger.cn/2019/09/25/hello-world/</id>
     <published>2019-09-25T09:52:04.000Z</published>
-    <updated>2019-09-25T03:28:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <updated>2019-10-04T15:26:48.703Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
       
     
     </summary>
